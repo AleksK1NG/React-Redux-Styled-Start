@@ -1,0 +1,9 @@
+
+export const ADD_TODO = 'ADD_TODO';
+export const COMPLETE_TODO = 'COMPLETE_TODO';
+export const DELETE_TODO = 'DELETE_TODO';
+export const DELETE_COMPLETED = 'DELETE_COMPLETED';
+export const CREATE_TODO_SUCCES = 'CREATE_TODO_SUCCES';
+export const CREATE_TODO_ERROR = 'CREATE_TODO_ERROR';
+export const GET_REQUEST = 'GET_REQUEST';
+export const SET_DATA = 'SET_DATA';

@@ -1,0 +1,12 @@
+[ignore]
+.*/node_modules/fbjs/.*
+.*/node_modules/eslint-plugin-jsx-a11y/.*
+.*/node_modules/styled-components/.*
+.*y18n
+
+[include]
+
+[libs]
+
+[options]
+suppress_comment=\\(.\\|\n\\)*\\$FlowIssue
